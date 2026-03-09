@@ -199,19 +199,32 @@ Risk level: high
 # Technologies Used
 
 Python
+
 Pandas
+
 Scikit-learn
+
 XGBoost
+
 FastAPI
+
 Uvicorn
+
 Jupyter Notebook
+
 Future Improvements
+
 Possible extensions include:
+
 real-time streaming using Kafka
+
 model monitoring and logging
+
 fraud investigation dashboard
+
 model retraining pipeline
 
 Author
+
 Kevin Zamora
 Machine Learning and Data Science Enthusiast
