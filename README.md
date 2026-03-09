@@ -224,7 +224,8 @@ fraud investigation dashboard
 
 model retraining pipeline
 
-Author
+# Author
 
 Kevin Zamora
+
 Machine Learning and Data Science Enthusiast
